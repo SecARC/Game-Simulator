@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\quiz-2\quiz-2\bin\Debug\quiz-2.exe.config
+C:\Users\PC\source\repos\quiz-2\quiz-2\bin\Debug\quiz-2.exe
+C:\Users\PC\source\repos\quiz-2\quiz-2\bin\Debug\quiz-2.pdb
+C:\Users\PC\source\repos\quiz-2\quiz-2\obj\Debug\quiz-2.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\quiz-2\quiz-2\obj\Debug\quiz_2.Form1.resources
+C:\Users\PC\source\repos\quiz-2\quiz-2\obj\Debug\quiz_2.Properties.Resources.resources
+C:\Users\PC\source\repos\quiz-2\quiz-2\obj\Debug\quiz-2.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\quiz-2\quiz-2\obj\Debug\quiz-2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\quiz-2\quiz-2\obj\Debug\quiz-2.exe
+C:\Users\PC\source\repos\quiz-2\quiz-2\obj\Debug\quiz-2.pdb
